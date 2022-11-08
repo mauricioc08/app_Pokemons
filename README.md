@@ -1,4 +1,4 @@
-#Create React App Pokemon API
+# Create React App Pokemon API
 
 A project to consume a Pokémon name, type and image API from the PokéAPI site in reactjs.
 
